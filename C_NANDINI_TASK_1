@@ -6,12 +6,12 @@ if op=="+":
     print("the addition of two numbers is :",result)
 elif op=="-":
     result=num1-num2
-    print("the subtraction of two numbers is :",result)
+    print("the difference of two numbers is :",result)
 elif op=="*":
     result=num1*num2
-    print("the multification of two numbers is :",result)
+    print("the product of two numbers is :",result)
 elif op=="/":
     result=num1/num2
-    print("the devision  of two numbers is :",result)
+    print("the quotient of two numbers is :",result)
 else:
     print(invaild)
